@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
-
+// 깃 테스트
 public class MainActivity extends AppCompatActivity {
 
     @Override
